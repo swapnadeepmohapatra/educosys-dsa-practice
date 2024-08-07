@@ -9,3 +9,4 @@
 - Climbing Stairs [LeetCode](https://leetcode.com/problems/climbing-stairs) | [Solution](./Recursion/03%20Climbing%20Stairs/)
 - Min Cost Climbing Stairs [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs) | [Solution](./Recursion/04%20Min%20Cost%20Climbing%20Stairs/)
 - House Robber [LeetCode](https://leetcode.com/problems/house-robber) | [Solution](./Recursion/05%20House%20Robber/)
+- Subsets [LeetCode](https://leetcode.com/problems/subsets) | [Solution](./Recursion/06%20Subsets/)
